@@ -1,0 +1,25 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "node.js testing with mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthebert/rocket-shop.git"
+  },
+  "author": "matt thebert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthebert/rocket-shop/issues"
+  },
+  "homepage": "https://github.com/mthebert/rocket-shop#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
